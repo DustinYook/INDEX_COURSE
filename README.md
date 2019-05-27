@@ -1,6 +1,6 @@
 # COURSE INDEX
 
-**반드시 사용하실 때에는 출처를 명시해주시길 바랍니다!**
+**사용하실 때에는 반드시 출처를 명시해주시길 바랍니다!**
 
 ### 1. 대학강의
 - [컴퓨터공학입문 및 실습](https://github.com/DustinYook/Course_ComputerEngineeringIntroduction)
