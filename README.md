@@ -10,6 +10,7 @@
 ### 2. 학원강의
 - [C 프로그래밍 초급](https://github.com/DustinYook/Course_CBasic)
 - [웹 프로그래밍 중급](https://github.com/DustinYook/Course_WebBasic)
+- [자바 프로그래밍 초급](https://github.com/DustinYook/Course_JavaBasic)
 
 ### 3. 온라인강의
 - [생활코딩 Git 강의](https://github.com/DustinYook/Course_Git)
