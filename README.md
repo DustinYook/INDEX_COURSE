@@ -7,6 +7,7 @@
 - [자료구조](https://github.com/DustinYook/Course_DataStructure)
 - [인터넷프로그래밍](https://github.com/DustinYook/Course_InternetProgramming)
 - [자바기반응용프로그래밍](https://github.com/DustinYook/Course_ApplicationProgrammingJava)
+- [오퍼레이팅시스템](https://github.com/DustinYook/Course_OperatingSystem)
 - [전자상거래](https://github.com/DustinYook/Course_ECommerce)
 - [소프트웨어공학](https://github.com/DustinYook/Course_SoftwareEngineering)
 
