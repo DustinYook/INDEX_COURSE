@@ -11,3 +11,4 @@
 - [생활코딩 Git 강의](https://github.com/DustinYook/Course_Git)
 - [멋쟁이사자처럼 7기 강의](https://github.com/DustinYook/Course_ClassLion)
 - [Code Plus](https://github.com/DustinYook/Course_CodePlus)
+- [C 프로그래밍 초급](https://github.com/DustinYook/Course_CBasic)
