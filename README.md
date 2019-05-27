@@ -3,6 +3,7 @@
 ### 1. 대학강의
 - [컴퓨터공학입문 및 실습](https://github.com/DustinYook/Course_ComputerEngineeringIntroduction)
 - [객체지향프로그래밍1](https://github.com/DustinYook/Course_OOP1)
+- [객체지향프로그래밍2](https://github.com/DustinYook/Course_OOP2)
 - [인터넷프로그래밍](https://github.com/DustinYook/Course_InternetProgramming)
 - [소프트웨어공학](https://github.com/DustinYook/Course_SoftwareEngineering)
 - [전자상거래](https://github.com/DustinYook/Course_ECommerce)
