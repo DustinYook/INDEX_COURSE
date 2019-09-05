@@ -33,6 +33,6 @@
 -----
 
 ### 4. 학원강의
-- [C 프로그래밍 초급](https://github.com/DustinYook/Course_C-Basic)
-- [NCS 웹 프로그래밍 중급](https://github.com/DustinYook/Course_WebBasic)
-- [NCS 자바 프로그래밍 초급](https://github.com/DustinYook/Course_JavaBasic)
+- [C 프로그래밍 초급](https://github.com/DustinYook/COURSE_C-PROGRAMMING-BASIC)
+- [NCS 웹 프로그래밍 중급](https://github.com/DustinYook/COURSE_WEB-PROGRAMMING-INTERMEDIATE)
+- [NCS 자바 프로그래밍 초급](https://github.com/DustinYook/COURSE_JAVA-PROGRAMMING-BASIC)
