@@ -20,8 +20,8 @@
 -----
 
 ### 2. 실무강의
-- [부스트코스 웹 프로그래밍 (백엔드)](https://github.com/DustinYook/Course_BoostCourse-BE)
-- [부스트코스 웹 프로그래밍 (프론트엔드)](https://github.com/DustinYook/Course_BoostCourse-FE)
+- [부스트코스 웹 프로그래밍 (백엔드)](https://github.com/DustinYook/COURSE_BOOSTCOURSE-BE)
+- [부스트코스 웹 프로그래밍 (프론트엔드)](https://github.com/DustinYook/COURSE_BoOOSTCOURSE-FE)
 
 -----
 
