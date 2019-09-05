@@ -17,10 +17,10 @@
 - [부스트코스 웹 프로그래밍 (백엔드)](https://github.com/DustinYook/Course_BoostCourse_BE)
 - [부스트코스 웹 프로그래밍 (프론트엔드)](https://github.com/DustinYook/Course_BoostCourse_FE)
 
-### 3. 무크강의
-- [코드플러스](https://github.com/DustinYook/Course_CodePlus)
-- [생활코딩 Git 강의](https://github.com/DustinYook/Course_Git)
-- [멋쟁이사자처럼 7기 강의](https://github.com/DustinYook/Course_ClassLion)
+### 3. 웹 강의
+- [코드플러스 (코딩테스트 기초)](https://github.com/DustinYook/Course_CodePlus)
+- [생활코딩 (Git 기초)](https://github.com/DustinYook/Course_Git)
+- [멋쟁이사자처럼 7기 (Django 기초)](https://github.com/DustinYook/Course_ClassLion)
 
 ### 4. 학원강의
 - [C 프로그래밍 초급](https://github.com/DustinYook/Course_CBasic)
