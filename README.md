@@ -21,14 +21,14 @@
 
 ### 2. 실무강의
 - [부스트코스 웹 프로그래밍 (백엔드)](https://github.com/DustinYook/COURSE_BOOSTCOURSE-BE)
-- [부스트코스 웹 프로그래밍 (프론트엔드)](https://github.com/DustinYook/COURSE_BoOOSTCOURSE-FE)
+- [부스트코스 웹 프로그래밍 (프론트엔드)](https://github.com/DustinYook/COURSE_BOOSTCOURSE-FE)
 
 -----
 
 ### 3. 웹 강의
-- [코드플러스 (코딩테스트 기초)](https://github.com/DustinYook/Course_CodePlusBasic)
-- [생활코딩 (Git 기초)](https://github.com/DustinYook/Course_Git)
-- [멋쟁이사자처럼 7기 (Django 기초)](https://github.com/DustinYook/Course_Classlion)
+- [코드플러스 (코딩테스트 기초)](https://github.com/DustinYook/COURSE_CODEPLUS-BASIC)
+- [생활코딩 (Git 기초)](https://github.com/DustinYook/COURSE_GIT-BASIC)
+- [멋쟁이사자처럼 7기 (Django 기초)](https://github.com/DustinYook/COURSE_CLASSLION)
 
 -----
 
