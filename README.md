@@ -5,17 +5,17 @@
 -----
 
 ### 1. 학교강의
-- [컴퓨터공학입문 및 실습](https://github.com/DustinYook/Course_ComputerEngineeringIntroduction)
-- [객체지향프로그래밍1](https://github.com/DustinYook/Course_OOP1)
-- [객체지향프로그래밍2](https://github.com/DustinYook/Course_OOP2)
-- [자료구조](https://github.com/DustinYook/Course_DataStructure)
-- [인터넷프로그래밍](https://github.com/DustinYook/Course_InternetProgramming)
-- [자바기반응용프로그래밍](https://github.com/DustinYook/Course_ApplicationProgrammingJava)
-- [오퍼레이팅시스템](https://github.com/DustinYook/Course_OperatingSystem)
-- [프로그래밍언어론](https://github.com/DustinYook/Course_ProgrammingLanguage)
-- [컴퓨터네트워크](https://github.com/DustinYook/Course_ComputerNetwork)
-- [전자상거래](https://github.com/DustinYook/Course_ECommerce)
-- [소프트웨어공학](https://github.com/DustinYook/Course_SoftwareEngineering)
+- [컴퓨터공학입문 및 실습](https://github.com/DustinYook/COURSE_COMPUTER-ENGINEERING-INTRODUCTION)
+- [객체지향프로그래밍1](https://github.com/DustinYook/COURSE_OOP1)
+- [객체지향프로그래밍2](https://github.com/DustinYook/COURSE_OOP2)
+- [자료구조](https://github.com/DustinYook/COURSE_DATA-STRUCTURE)
+- [인터넷프로그래밍](https://github.com/DustinYook/COURSE_INTERNET-PROGRAMMING)
+- [자바기반응용프로그래밍](https://github.com/DustinYook/COURSE_APPLICATION-PROGRAMMING-JAVA)
+- [오퍼레이팅시스템](https://github.com/DustinYook/COURSE_OPERATING-SYSTEM)
+- [프로그래밍언어론](https://github.com/DustinYook/COURSE_PROGRAMMING-LANGUAGE)
+- [컴퓨터네트워크](https://github.com/DustinYook/COURSE_COMPUTER-NETWORK)
+- [전자상거래](https://github.com/DustinYook/COURSE_E-COMMERCE)
+- [소프트웨어공학](https://github.com/DustinYook/COURSE_SOFTWARE-ENGINEERING)
 
 -----
 
