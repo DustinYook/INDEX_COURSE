@@ -16,6 +16,7 @@
 - [컴퓨터네트워크](https://github.com/DustinYook/COURSE_COMPUTER-NETWORK)
 - [전자상거래](https://github.com/DustinYook/COURSE_E-COMMERCE)
 - [소프트웨어공학](https://github.com/DustinYook/COURSE_SOFTWARE-ENGINEERING)
+- [물류의사결정론](https://github.com/DustinYook/COURSE_LOGISTICS-DECISION-MAKING)
 
 -----
 
